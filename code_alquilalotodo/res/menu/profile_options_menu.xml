@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile_options_logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="@string/title_logout" />
+
+    <item
+        android:id="@+id/profile_options_edit_profile"
+        android:icon="@drawable/ic_mode_edit_outline_24"
+        android:iconTint="@color/black"
+        android:title="Editar perfil" />
+
+</menu>
