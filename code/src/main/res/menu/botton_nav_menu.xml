@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/menu_home"/>
+    <item android:title="Favourites"
+        android:id="@+id/menu_favourite"
+        android:icon="@drawable/ic_baseline_favorite_border_24"/>
+    <item android:title="Rent"
+        android:icon="@drawable/baseline_add_to_photos_24"
+        android:id="@+id/menu_rent"/>
+    <item android:title="Profile"
+        android:icon="@drawable/baseline_person_outline_24"
+        android:id="@+id/menu_prodile"/>
+
+</menu>
