@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AlquilaloTodo</string>
+    <string name="title_logout">Cerrar sesión</string>
+    <string name="title_profile">Perfil</string>
+    <string name="fragmentError">No se pudo cargar la peticion</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_get_started">GetStartedActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- ***** MESSAGE ERRORS ***** -->
+    <string name="passwordNoMatchToast">Las contraseñas no coinciden</string>
+    <string name="genericErrorToast">Ocurrio un problkea, intentelo mas tarde</string>
+    <string name="registerErrorToast">No se pudo crear la cuenta</string>
+    <string name="loginEmptyFields">Rellena todos los campos</string>
+    <string name="registerErrorPasswordLenght">La contraseña tiene que tener un minimo de 6 caracteres</string>
+
+    <string name="web_client_id">257461160530-ukln402ih111b1pim4353hasbi9irl32.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

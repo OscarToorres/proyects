@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile_options_logout"
+        android:icon="@drawable/baseline_burst_mode_24"
+        android:title="En alquiler" />
+
+    <item
+        android:id="@+id/profile_options_midle_valorations"
+        android:icon="@drawable/ic_star_rate_24"
+        android:title="Valoraciones" />
+
+</menu>

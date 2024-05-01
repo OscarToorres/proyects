@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257461160530",
+    "firebase_url": "https://alquilalotodo-2023-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "alquilalotodo-2023",
+    "storage_bucket": "alquilalotodo-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257461160530:android:6020ca2f4f0a8d8ba06d8b",
+        "android_client_info": {
+          "package_name": "com.git.alquilalotodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257461160530-kp616g55cg7f2vf8d04dpal3n3669hs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.git.alquilalotodo",
+            "certificate_hash": "2d4d7787b61b4c534caf4becfec6ecb3e43a03fd"
+          }
+        },
+        {
+          "client_id": "257461160530-ukln402ih111b1pim4353hasbi9irl32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB21qmCCIHwlBdKuBilaRc_c9-9zu3ZY8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257461160530-8ba429q119pmnm7ebbqa4nsug4n0fjan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
